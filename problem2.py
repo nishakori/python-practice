@@ -1,6 +1,3 @@
-letter = '''dear <|NAME|>,
-your are selected!
-<|DATE|>'''
-
-print(letter.replace("<|NAME|>", "Nisha"))
-print(letter.replace("<|DATE|>", "13 august 2025"))
+list = [34,56,7,4,3,9]
+list.sort()
+print("Sorted list is: ", list)

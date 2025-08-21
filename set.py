@@ -1,0 +1,6 @@
+a={2,2,3,4,5,6,7,8,9,10,"nisha","nisha"}
+ 
+s = set()
+print(a)
+print(type(a))
+
